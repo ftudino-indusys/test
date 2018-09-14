@@ -1,4 +1,6 @@
 {
+     "name": "My Repository",
+     "homepage": "http://packages.example.org",
      "require": {
           "slim/slim": "^3.0",
           "twig/twig": "^2.4",
@@ -14,3 +16,5 @@
      }
 
 }
+
+
